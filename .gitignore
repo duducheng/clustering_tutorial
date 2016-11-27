@@ -1,5 +1,6 @@
 resources/
 launch.*
+.ipynb_checkpoints/
 
 # Windows image file caches
 Thumbs.db
