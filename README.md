@@ -1,5 +1,5 @@
 # Clustering
-KMeans(++), Gaussian Mixture and Spectral Clustering
+Notebook of KMeans(++), Gaussian Mixture and Spectral Clustering, with clean implementation.  
 
 1. [Intuition with scikit-learn](0_scikit-learn_KMeans_GMM_and_Spectral_Clustering.ipynb)
 2. [KMeans and KMeans++](1_KMeans_and_KMeans++.ipynb)
@@ -8,6 +8,10 @@ KMeans(++), Gaussian Mixture and Spectral Clustering
 
 # LICENSE
 MIT
+
+# Note
+I didn't refactor the functions in these notebooks into OOP style. So if you want a clean class implementation, you can find in my contributions to [MLAlgorithms](https://github.com/rushter/MLAlgorithms/).
+* [Gaussian Mixture](https://github.com/rushter/MLAlgorithms/blob/master/mla/gaussian_mixture.py)
 
 # Dependency
 Python 3 with **numpy, matplotlib and sklearn**.
